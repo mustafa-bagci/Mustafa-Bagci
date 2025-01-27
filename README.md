@@ -50,7 +50,7 @@ Hi there! 👋 I'm a **Computer Engineer** passionate about designing and buildi
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-enes-bagci/)  
 - 📧 Email: [mustafaenesbagcii@gmail.com](mailto:mustafaenesbagcii@gmail.com)  
-- 🌐 Portfolio: https://[YOUR_PORTFOLIO_LINK](https://portfolio-eight-ecru-86.vercel.app/
+- 🌐 Portfolio: https://portfolio-eight-ecru-86.vercel.app/
 
 ---
 
