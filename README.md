@@ -49,15 +49,14 @@ Hi there! 👋 I'm a **Computer Engineer** passionate about designing and buildi
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-enes-bagci/)  
-- 📧 Email: mustafaenesbagcii@gmail.com
-- 🌐 Portfolio: https://portfolio-eight-ecru-86.vercel.app/
+- 📧 Email: [mustafaenesbagcii@gmail.com](mailto:mustafaenesbagcii@gmail.com)  
+- 🌐 Portfolio: https://[YOUR_PORTFOLIO_LINK](https://portfolio-eight-ecru-86.vercel.app/
 
 ---
 
 ## 🌟 Fun Facts
 
 - 🧠 Currently exploring **cloud computing** and **microservices**.
-- 🎮 Gamer by night, coding enthusiast by day.
 - 🏞️ Love hiking and discovering new places.
 
 Thanks for stopping by! Feel free to check out my repositories and connect with me. Let's build something amazing together! 😄
