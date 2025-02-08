@@ -56,7 +56,7 @@ Hi there! 👋 I'm a **Computer Engineer** passionate about designing and buildi
 
 ## 🌟 Fun Facts
 
-- 🧠 Currently exploring **cloud computing** and **microservices**.
+- 🧠 Currently exploring **cloud computing** and **machine learning**.
 - 🏞️ Love hiking and discovering new places.
 
 Thanks for stopping by! Feel free to check out my repositories and connect with me. Let's build something amazing together! 😄
