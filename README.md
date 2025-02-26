@@ -67,7 +67,7 @@ I hold a **Bachelor of Engineering** from **KTO Karatay University** and have ha
 
 ### **Bachelor of Engineering**  
 **KTO Karatay University, Konya, Turkey**  
-*Graduated in 2024*
+*Graduated in 2025*
 
 ---
 
