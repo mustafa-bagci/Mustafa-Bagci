@@ -1,83 +1,83 @@
-# 💻 Welcome to My GitHub Profile!
-
-Hi there! 👋 I'm a **Computer Engineer** passionate about designing and building dynamic, user-friendly web applications. I have a strong background in **full-stack development** and a passion for building scalable, efficient, and user-friendly applications. My experience spans **web and mobile development**, **real-time applications**, and **cloud-based solutions**.
+# 👋 Hello, I'm Mustafa Enes Bagci
 
 ---
 
-## 🚀 About Me
+## 🚀 **About Me**
 
-- 🌟 **Passionate Full-Stack Developer** with a knack for problem-solving and crafting seamless user experiences.
-- 🌐 Proficient in **Web Development**, **Mobile Development**, **Cloud-based solutions**.
-- 🎯 Always exploring cutting-edge technologies to expand my skill set.
-- 📖 Lifelong learner with an interest in **machine learning** and **software architecture**.
+I'm a passionate **Backend Developer** with expertise in **Go, Node.js, and JavaScript**, specializing in building **scalable APIs**, **real-time data processing**, and **system optimization**. I have a strong focus on **clean code**, **performance**, and **observability** (monitoring & logging). I thrive in challenging environments where I can leverage my skills to build efficient and scalable systems that deliver seamless user experiences.
 
----
-
-## 🛠️ Tech Stack
-
-### **Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) 
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square) 
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square) 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)  
-
-### **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) 
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square) 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square) 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square) 
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square)  
-
-### **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square) 
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)  
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat-square)  
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square) 
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)  
-
-### **Databases**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  
-
-### **DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) 
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square) 
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)  
-
-### **Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) 
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)  
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square)  
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mustafa-Bagci&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Bagci&layout=compact&theme=radical)
+I hold a **Bachelor of Engineering** from **KTO Karatay University** and have hands-on experience as a **Software Engineer Intern** at **Opak Yazilim**, where I worked on optimizing inventory tracking, sales management, and retail solutions for multi-location businesses.
 
 ---
 
-## 📫 Get in Touch
+## 💡 **What I Bring to the Table**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-enes-bagci/)  
-- 📧 Email: [mustafaenesbagcii@gmail.com](mailto:mustafaenesbagcii@gmail.com)  
-- 🌐 Portfolio: https://portfolio-eight-ecru-86.vercel.app/
+- **Proven Expertise**: With a strong foundation in **Go, Node.js, and JavaScript**, I have built scalable APIs and real-time systems that handle high traffic and complex data processing.
+- **Problem-Solving Mindset**: I excel at identifying performance bottlenecks and implementing solutions to optimize system efficiency and reliability.
+- **Collaborative Spirit**: I enjoy working in cross-functional teams, contributing to the success of projects through effective communication and teamwork.
+- **Adaptability**: I quickly learn and adapt to new technologies, frameworks, and tools, ensuring that I stay ahead in the ever-evolving tech industry.
+- **Multilingual Communication**: Fluent in **French, Turkish, and English**, I can seamlessly collaborate with diverse teams and stakeholders.
 
 ---
 
-## 🌟 Fun Facts
+## 🛠️ **Technical Skills**
 
-- 🧠 Currently exploring **cloud computing** and **machine learning**.
-- 🏞️ Love hiking and discovering new places.
+### **Languages**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C#-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-Thanks for stopping by! Feel free to check out my repositories and connect with me. Let's build something amazing together! 😄
+### **Frameworks & Tools**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NETCore-512BD4?style=flat&logo=.net&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6F61?style=flat&logo=github-actions&logoColor=white)
 
+---
+
+## 🚀 **Projects**
+
+### **Log Monitoring API**  
+*Go, Prometheus, Grafana*  
+- Built a **scalable logging and monitoring API** for real-time system insights.
+- Integrated **Prometheus and Grafana** for log visualization and analysis.
+- Optimized API performance with efficient log storage and retrieval mechanisms.
+
+### **E-commerce API**  
+*C#, .NET, PostgreSQL*  
+- Developed a **scalable e-commerce API** with authentication, product management, and order tracking.
+- Implemented **RESTful architecture** for efficient data handling and security.
+- Optimized database queries and API performance for a seamless user experience.
+
+### **Real-time Chat Application**  
+*Node.js, Express.js, Socket.io, PostgreSQL*  
+- Developed a **real-time chat application** using WebSocket technology for instant messaging.
+- Implemented **user authentication**, private/group messaging, and online status indicators.
+- Optimized message delivery with efficient event handling and database indexing.
+
+---
+
+## 📚 **Education**
+
+### **Bachelor of Engineering**  
+**KTO Karatay University, Konya, Turkey**  
+*Graduated in 2024*
+
+---
+
+## 📫 **Let's Connect!**
+
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via:
+
+- **Email**: mustafaenesbagcii@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/mustafa-enes-bagci)
+
+---
+
+⭐️ **Fun Fact**: I'm passionate about solving complex problems and turning ideas into reality through code. When I'm not coding, you can find me exploring new technologies or contributing to open-source projects.
