@@ -4,7 +4,7 @@
 
 ## 🚀 **About Me**
 
-I'm a passionate **Backend Developer** with expertise in **Go, Node.js, and JavaScript**, specializing in building **scalable APIs**, **real-time data processing**, and **system optimization**. I have a strong focus on **clean code**, **performance**, and **observability** (monitoring & logging). I thrive in challenging environments where I can leverage my skills to build efficient and scalable systems that deliver seamless user experiences.
+I'm a passionate **Backend Developer** with expertise in **Go, Python, C# and JavaScript**, specializing in building **scalable APIs**, **real-time data processing**, and **system optimization**. I have a strong focus on **clean code**, **performance**, and **observability** (monitoring & logging). I thrive in challenging environments where I can leverage my skills to build efficient and scalable systems that deliver seamless user experiences.
 
 I hold a **Bachelor of Engineering** from **KTO Karatay University** and have hands-on experience as a **Software Engineer Intern** at **Opak Yazilim**, where I worked on optimizing inventory tracking, sales management, and retail solutions for multi-location businesses.
 
