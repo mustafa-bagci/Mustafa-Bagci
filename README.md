@@ -17,7 +17,6 @@ I'm a passionate **Backend Developer** with expertise in **C#, Go and JavaScript
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
 ### **Frameworks & Libraries**
 ![.NET Core](https://img.shields.io/badge/.NETCore-512BD4?style=flat&logo=.net&logoColor=white)
